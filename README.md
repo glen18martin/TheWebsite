@@ -1,3 +1,3 @@
 # TheWebsite
 
-GitHub Tutorial for website development for Sherin!!!
+GitHub Tutorial on website development for Sherin!!!
